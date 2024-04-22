@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.header-centre{
+    text-align: center;
+    border: 2px solid black;
+    padding: 1%;
+    background-color: aquamarine;
+    font-family:myfont2;
+}
+
+@font-face {
+    font-family:"myfont" ;
+    src: url(./Open_Sans/static/OpenSans-BoldItalic.ttf);
+}
+
+@font-face {
+    font-family:"myfont2" ;
+    src: url(./Roboto/Roboto-Bold.ttf);
+}
+
+p{
+    background-color: antiquewhite;
+    font-family: myfont;
+}
+
