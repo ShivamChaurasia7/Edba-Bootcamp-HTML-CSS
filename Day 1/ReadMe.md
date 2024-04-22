@@ -1,4 +1,4 @@
-# Edba-Bootchamp Task
+# Edba-Academy-Bootchamp Task
 
 ## Task 1: Box Sizing
 - Created a dummy page by using box sizing in CSS.
