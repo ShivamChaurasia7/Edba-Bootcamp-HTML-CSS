@@ -40,5 +40,5 @@
 
 ## Usage
 
-To view the project, simply open the HTML files in a web browser.
+To view the project, simply open the HTML files (Index.html) in a web browser.
 
